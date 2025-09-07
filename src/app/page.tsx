@@ -167,7 +167,8 @@ export default function Page() {
                 borderRadius: "8px",
                 fontSize: "1rem",
                 transition: "all 0.2s ease",
-                outline: "none"
+                outline: "none",
+                color: "#374151"
               }}
               onFocus={(e) => e.target.style.borderColor = "#8B0000"}
               onBlur={(e) => e.target.style.borderColor = "#e5e7eb"}
