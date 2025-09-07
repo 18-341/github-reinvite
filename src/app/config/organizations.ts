@@ -5,6 +5,7 @@ export const ORGANIZATIONS = {
     owner: "18-341", // GitHub organization/owner name
     assignments: {
       "P2: Matrix Multiply": "p2-matrix-multiply",
+      "P3: NOC" : "p3-noc"
     }
   }
 } as const;
